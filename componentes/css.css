@@ -1,0 +1,11 @@
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    background: #1BAA9F;
+}
+
+main {
+    padding-top: 80px; /* Ajusta según la altura del header */
+}
